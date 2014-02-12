@@ -1,0 +1,4 @@
+{
+  "source": "stylesheets/style.css.scss",
+  "javascript_before": ["http://code.jquery.com/jquery-2.1.0.min.js"]
+}

@@ -1,0 +1,11 @@
+.button {
+  background: yellow;
+  display: inline-block;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-family: helvetica;
+
+  &.primary {
+    background: $pink;
+  }
+}
